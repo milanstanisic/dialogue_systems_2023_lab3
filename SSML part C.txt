@@ -1,0 +1,32 @@
+<speak xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="http://www.w3.org/2001/mstts" xmlns:emo="http://www.w3.org/2009/10/emotionml" version="1.0" xml:lang="en-US">
+    <voice name="en-US-JennyNeural">
+        <mstts:express-as style="poetry-reading">
+            <s><prosody rate="slow"> All at once, <break time="500ms"/>  I finally took a moment <break strength="low"/> and <break strength="strong"/></prosody> </s>
+        </mstts:express-as>
+        <mstts:express-as style="disgruntled">
+            <s><prosody rate="slow"> I'm realizing that, uhm<break strength="weak"/></prosody> </s>
+        </mstts:express-as>
+        <mstts:express-as style="empathetic">            
+            <s> <prosody rate="slow"> that! <break strength="medium"/> uhm, that!</prosody><break time="700ms"/> </s>
+        </mstts:express-as>
+        <mstts:express-as style="terrified">
+            <s><prosody rate="slow"> you're not coming back, </prosody><break time="700ms"/> </s>
+        </mstts:express-as>
+        <mstts:express-as style="angry">
+            <s> <prosody rate="slow"> and it finally hit me, <break strength="medium"/></prosody></s>
+        </mstts:express-as>
+        <mstts:express-as style="terrified">
+            <s> <prosody rate="x-slow"> all at once  </prosody> </s>
+            <s> <prosody rate="slow"> all at once, <break time="500ms"/> I started counting teardrops <break strength="medium"/></prosody> </s>
+        </mstts:express-as>
+        <mstts:express-as style="shouting">
+            <s><prosody rate="slow"> and at least a million fell </prosody></s>
+        </mstts:express-as>
+        <mstts:express-as style="terrified">
+            <s><prosody rate="slow"> my heart, began, to swell </prosody><break time="900ms"/> </s>
+        <mstts:express-as style="depressed">
+            <s><prosody rate="slow" pitch="high"> and all my dreams were shattered, all at once</prosody> </s>
+        </mstts:express-as>
+        </mstts:express-as>
+    </voice>
+</speak>

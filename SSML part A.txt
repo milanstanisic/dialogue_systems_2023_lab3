@@ -1,0 +1,21 @@
+<speak xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="http://www.w3.org/2001/mstts" xmlns:emo="http://www.w3.org/2009/10/emotionml" version="1.0" xml:lang="en-US"><voice name="en-US-JennyNeural">
+        <mstts:express-as style="assistant">
+            <s>I have your calendar open </s>
+            <break strength="medium" /> 
+            <s>For what date? </s>
+            <break strength="medium" /> 
+            <s>What time would you like to start?</s>
+            <break strength="medium" /> 
+            <s>How much time do you want to block out?</s> 
+            <break strength="medium" />
+            <s>What shall we call this? </s>
+            <break strength="medium" /> 
+            <p>
+                <s><prosody volume="loud"> Ok! </prosody><break time="300ms" strength="strong" /></s>
+                <s> I have scheduled your <prosody rate="slow" volume="loud">appointment</prosody> <break strength="medium" /></s>
+                <s> It will take place on <prosody rate="slow"><say-as interpret-as="date" format="dm">10-10</say-as></prosody><break time="300ms" strength="weak" />, and its start time is <prosody rate="slow"><say-as interpret-as="time" format="hm12">12:45pm</say-as></prosody><break time="300ms" strength="medium" /></s>
+                <s> The scheduled appointment will last <prosody rate="slow"><say-as interpret-as="duration" format="h:m">2:00</say-as></prosody><break time="300ms" strength="strong" /></s>
+                <s> Is this correct? </s>
+            </p>
+        </mstts:express-as>
+    </voice></speak>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lexicon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd" version="1.0" alphabet="ipa" xml:lang="en-US" xmlns="http://www.w3.org/2005/01/pronunciation-lexicon">
+  <lexeme>
+    <grapheme>Milan</grapheme>
+    <phoneme>milan</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Vlad</grapheme>
+    <phoneme>vlad</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Streisand</grapheme>
+    <phoneme>straɪsænd</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Barbra</grapheme>
+    <phoneme>bɑrbrɑ</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Johansson</grapheme>
+    <phoneme>joʊˈhɑnsən</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Celine</grapheme>
+    <phoneme>səˌliːn</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>Dion</grapheme>
+    <phoneme>ˈdiːɒn</phoneme>
+  </lexeme>
+</lexicon>
